@@ -1,0 +1,10 @@
+.ebbTableHeader {
+    background-color: rgb(249, 248, 247) !important;
+}
+
+.ebb-table-wrapper {
+    padding: 20px;
+}
+.ant-table-selection-column{
+    background-color: rgb(249, 248, 247) !important;
+}

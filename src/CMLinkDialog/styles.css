@@ -1,0 +1,43 @@
+.cm-link-case-modal {
+    width: 900px;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 24px;
+    color: #1f1f1f;
+    border-radius: 2px;
+}
+
+.cm-link-case-modal .ant-modal-header {
+    border-bottom: none;
+    background: #f9f8f7;
+}
+
+.cm-link-case-modal .ant-modal-header,
+.cm-link-case-modal .ant-modal-body {
+    padding: 24px 30px;
+}
+
+.cm-link-case-header {
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 24px;
+    color: #262626;
+}
+
+.cm-link-case-modal .search-box-wrapper {
+    padding: 24px 0px 16px;
+}
+
+.cm-link-case-modal .search-box-wrapper .search-box {
+    flex: 1;
+    margin-left: 40px;
+}
+
+.cm-link-case-modal .cm-suggest-table {
+    margin-top: 16px;
+    border-top: 1px dashed #8c8c8c;
+}
+
+.cm-link-case-modal .action-buttons {
+    margin-top: 32px;
+}

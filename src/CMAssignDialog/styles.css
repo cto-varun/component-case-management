@@ -1,0 +1,100 @@
+.cm-assign-case-modal {
+    width: 780px;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 24px;
+    color: #1f1f1f;
+    border-radius: 2px;
+}
+
+.cm-assign-case-modal .ant-modal-header {
+    border-bottom: none;
+}
+
+.cm-assign-case-modal .ant-modal-header,
+.cm-assign-case-modal .ant-modal-body {
+    padding: 24px 30px;
+}
+
+.cm-assign-case-header {
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 24px;
+    color: #262626;
+}
+
+.cm-assign-case-modal .meta-data {
+    margin-top: -24px;
+    margin-left: -30px;
+    margin-right: -30px;
+    background: #f2f1f0;
+    width: calc(100% + 60px);
+    height: 50px;
+    padding: 11px 30px;
+    display: flex;
+    align-items: center;
+}
+
+.cm-assign-case-modal .meta-data .id-wrapper {
+    color: white;
+    background: #52c41a;
+    padding: 4px 16px;
+    box-shadow: -3px 3px 0px 0px #d9d9d9;
+    margin-right: 10px;
+    font-size: 15px;
+}
+
+.cm-assign-case-modal .edit-box-rows {
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.cm-assign-case-modal .edit-row-item {
+    margin-top: 14px;
+    margin-bottom: 20px;
+}
+
+.cm-assign-case-modal .edit-row-title {
+    margin-bottom: 11px;
+}
+
+.cm-assign-case-modal .edit-row-data {
+    width: 200px;
+}
+
+.cm-assign-case-modal .search-box {
+}
+
+.cm-assign-case-modal .action-buttons {
+    margin-top: 32px;
+}
+
+.cm-assign-case-modal .submit-button {
+    background: #52c41a;
+    color: white;
+    font-size: 13px;
+    line-height: 28px;
+    text-transform: uppercase;
+    font-weight: 600;
+    padding: 1px 11px;
+}
+
+.status-text {
+    text-transform: uppercase !important;
+    font-weight: 600 !important;
+    margin-top: 12px;
+}
+
+.status-text.errors {
+    color: red;
+}
+
+.status-text.updated {
+    color: #52c41a;
+}
+.mw-100 {
+    min-width: 100px;
+}
+.ml-5 {
+    margin-left: 5px;
+}
